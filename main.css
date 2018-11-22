@@ -1,0 +1,20 @@
+body{
+    width: 100wh;
+    height: 100vh;
+    font-family: "Open Sans";
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+
+#clock{
+    font-size: 40px;
+    color:#fff;
+}
+
+#color{
+    color:#fff
+}
